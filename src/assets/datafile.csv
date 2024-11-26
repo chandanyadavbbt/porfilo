@@ -1,0 +1,21 @@
+TransactionID,Liability Indicator - Mortgage_months_left_to_Ownership_duration_months,Liability Indicator - MortgageAmount_to_Est_Value,Liability Indicator - Mortgage_months_left_to_Mortgage_Term,Immersion_index,Land_Usage - BuildingArea_to_TotalArea,Land_Usage - ParkingGarageArea_to_TotalArea,LAND COST PER SQ MT,Structure Indicator - Rooms_to_Bath Distribution,Structure Indicator - Floor coverage area,Structure Indicator - Fireplace_to_Roomscount,Structure Indicator - Stories_count_to_Roomscount,Structure Indicator - Rooms_to_Bed_Rooms_count,AreaDistribution - Area1stFloor_to_BuildingArea,AreaDistribution - Area2ndFloor_to_BuildingArea,AreaDistribution - AreaUpperFloors_to_BuildingArea,Luxury Indicator - Patio_to_Total_Area,Luxury Indicator - DeckArea_to_Total_Area,Luxury Indicator - PoolArea_to_Total_Area,Luxury Indicator - PorchArea_to_Total_Area,Weather_indicator,Health_indicator,Safety_index,Cost_of_living_index,Increase_in_value,Neighbourhoods_family_to_non_family_ratio,Availability_of_good_school,Liability_indicator,Luxury_indicator_hmean,Area_distribution_hmean,Land_Usage_hmean,Predicted_Lead_score,Seller_fullname,Address,Year_Built
+999133495,4,4,4,4,3,4,3,3,2,2,4,4,2,3,4,5,4,4,3,1,2,4,4,1,4,TRUE,4,3.870968,2.769231,4,98,Melinda L RYKEN,5059 VIA CUPERTINO,1997
+998969795,4,3,4,4,2,2,3,4,2,3,2,2,4,3,4,3,4,4,2,3,2,2,4,1,1,TRUE,3.6,3,3.6,2,96,TRAVIS PRATER,1280 UPPINGHAM DR,1981
+999561934,4,5,4,4,2,3,4,4,4,4,2,4,4,3,4,2,4,4,2,1,4,4,4,1,2,FALSE,4.285714,2.666667,3.6,3,96,SHEILA C SMITH,5550 WINCHESTER WAY,1985
+1000158223,5,5,4,4,3,3,2,4,2,3,2,1,4,3,4,4,4,5,5,4,2,2,4,1,2,FALSE,4.615385,4.444444,3.6,3,96,BYRON G VILLAGOMEZ,1909 GLENVIEW AVE,2001
+999407266,4,4,4,1,2,1,3,4,2,3,2,2,4,3,4,2,4,4,2,4,5,2,4,1,2,TRUE,4,2.666667,3.6,1,95,FRANCESCA BARRY,4739 OPEN CIR,2006
+1000158138,4,4,4,4,3,4,2,4,3,3,2,2,4,3,4,2,4,4,4,5,1,5,4,1,3,FALSE,4,3.2,3.6,95,94,CHRISTOPHER HILL,5724 DAMON ST,2013
+1000158162,4,4,4,4,3,3,2,2,1,3,4,2,2,4,4,4,5,5,2,3,4,2,4,1,2,FALSE,4,3.478261,3,3,94,GUSTAVO RIOS,3965 HIBBERT CT,1976
+998698315,4,5,4,1,2,2,3,2,4,4,3,1,4,3,4,2,4,4,2,1,2,4,4,1,4,TRUE,4.285714,2.666667,3.6,2,92,RAUL ERNESTO MORENO CAMPOS,5211 CREEKSIDE RD,2003
+999561966,4,5,4,4,2,2,5,2,5,2,3,1,4,3,4,2,4,4,4,1,2,4,4,1,4,FALSE,4.285714,3.2,3.6,2,92,BRIAN ANDREW KENNY,808 HACIENDA DR,1999
+999407268,4,4,4,4,2,3,4,4,4,4,2,4,4,3,4,2,4,4,3,4,3,2,4,1,5,TRUE,4,3,3.6,3,92,DENNIS WU,3338 BRYAN AVE,1985
+999561976,4,5,4,1,2,2,3,4,2,3,2,2,4,3,4,2,4,5,2,4,3,2,4,1,5,TRUE,4.285714,2.758621,3.6,2,92,SCOTT SANCHEZ CHRISTIAN,2917 TEXAS AVE,2000
+1000582619,5,4,5,1,3,2,1,2,1,3,4,2,2,4,4,5,4,4,3,5,1,1,4,1,4,FALSE,4.615385,3.870968,3,2,91,MUHAMMED ZAFAR,3224 PINE VIEW DR,1997
+998698360,4,3,4,4,4,3,1,3,1,2,4,4,2,3,4,2,4,4,4,4,3,2,4,1,4,TRUE,3.6,3.2,2.769231,3,90,PRADEEP PHILIP,3477 HEARTLAND AVE,2004
+1000158128,4,5,4,1,2,3,2,4,3,2,4,1,1,4,4,3,4,5,4,5,1,1,4,,4,FALSE,4.285714,3.870968,2,3,90,JAMES ANTON MAY,958 BRETON ST,1998
+998969799,4,3,4,1,3,3,3,3,2,5,1,4,4,3,4,2,4,4,3,1,2,1,4,1,4,TRUE,3.6,3,3.6,3,90,LORI LYNN TARTOL,3038 SHADOW HILL CIR,1997
+1002042909,5,4,5,4,2,2,4,4,2,3,2,2,4,3,4,3,4,4,4,1,3,4,4,1,1,TRUE,4.615385,3.692308,3.6,2,89,CHRISTOPHER M HAGUE,142 MAGELLAN ST,2008
+1000989465,5,4,5,4,3,2,2,3,2,5,4,4,2,3,4,4,4,5,2,4,4,1,4,1,5,FALSE,4.615385,3.333333,2.769231,2,89,JONATHON L MEYER,2911 CHIPPEWA AVE,2002
+1002206802,5,4,5,4,3,3,1,2,1,3,4,2,2,4,4,2,4,4,4,3,2,2,4,1,4,TRUE,4.615385,3.2,3,3,88,AGUSTIN CASTANEDA,1817 SWAN FALLS ST,2000
+999133458,4,4,4,4,3,3,4,1,4,4,4,1,2,3,5,4,4,4,4,4,5,1,4,1,4,TRUE,4,4,2.903226,3,88,ADAM JAMES BEDROSSIAN,620 BRADEMAS CT,2001
+1002446401,5,4,5,4,2,3,2,2,3,2,4,2,1,4,4,4,4,4,4,5,1,1,4,1,4,FALSE,4.615385,4,2,3,88,KEVIN M MATSUNO,2990 GARDNER ST,2004

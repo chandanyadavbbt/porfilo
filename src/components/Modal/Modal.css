@@ -1,0 +1,131 @@
+body.active-modal {
+  overflow-y: hidden;
+}
+
+.btn-modal {
+  padding: 10px 20px;
+  display: block;
+  margin: 100px auto 0;
+  font-size: 18px;
+}
+
+.modal, .overlay {
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  position: fixed;
+}
+
+.overlay {
+  background: rgba(49,49,49,0.8);
+}
+
+.modal-content {
+  position: absolute;
+  top: 15%;
+  left: 5%; /* Align the modal to the left */
+  
+  
+  line-height: 1.4;
+  background: rgb(37, 92, 209);
+  padding: 50px 320px; /* Adjusted padding for better spacing */
+  max-width: 1000px;
+  min-width: 400px;
+  -webkit-text-fill-color: aliceblue;
+  border-radius: 8px;
+  height: 530px;
+  
+}
+
+.close-modal-container {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: right;
+  background-color: #ff0000;
+  cursor: pointer;
+}
+
+.close-modal::before,
+.close-modal::after {
+  content: '';
+  position: absolute;
+  width: 2px;
+  height: 20px;
+  background-color: #ffffff;
+  transform-origin: center;
+  top: 50%;
+  left: 50%;
+}
+
+.close-modal::before {
+  transform: translate(-50%, -50%) rotate(45deg);
+}
+
+.close-modal::after {
+  transform: translate(-50%, -50%) rotate(-45deg);
+}
+
+
+
+.modal-content table {
+  font-size: medium;
+  width: 150%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  margin-left: -180px; /* Added margin to separate the table from the header */
+  
+}
+
+.modal-content td {
+  border: 3px solid white;
+  padding: 20px; /* Increased padding for better spacing */
+  text-align: left;
+}
+
+.modal-content .progress-cell {
+  width: 700px;
+}
+
+.Lead-Profile{
+  align-content: left;
+}
+.header-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.info-button-container {
+  display: flex;
+  align-items: center;
+}
+
+.info-button {
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.info-button:hover {
+  background-color:white; /* Darken on hover if needed */
+}
+
+.info-icon {
+ 
+  background-color: black   ;
+  font-size: 16px;
+}

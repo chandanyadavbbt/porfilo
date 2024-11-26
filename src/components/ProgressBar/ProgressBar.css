@@ -1,0 +1,15 @@
+/* ProgressBar.css */
+
+.progressBar {
+  height: 20px;
+  background-color: rgb(211, 72, 72); /* Gray background color */
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.progress-bar {
+  height: 100%;
+  width: 75%; /* Set the width to 50% or any desired percentage */
+  background-color: #4caf50; /* Green color for the filled part */
+  transition: width 0.3s ease-in-out; /* Add a smooth transition effect */
+}

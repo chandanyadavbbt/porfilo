@@ -1,0 +1,99 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Add this CSS to your stylesheet or component-specific CSS */
+
+.table-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #f5f5f5;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+
+.data-table td {
+  padding: 12px;
+  text-align: center;
+}
+
+.data-table th {
+  background-color: rgb(37, 92, 209);
+  color: #fff;
+  padding: 20px; /* Adjust the padding to change the height of the table header */
+  font-size: large;
+}
+
+.data-table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.data-table tbody tr {
+  background-color: #fff;
+}
+
+.data-table tbody tr:hover {
+  background-color: #dcdcdc;
+}
+
+.main-head {
+  margin-left: 150px;
+  padding-bottom: 0px;
+  color: rgb(37, 92, 209);
+  margin-top: 5%;
+}
+
+.arrowIcon {
+  display: inline-block;
+  width: 20px; /* Adjust the width of the arrow icon */
+  height: 20px; /* Adjust the height of the arrow icon */
+  margin-left: 5px; /* Adjust the distance between the last column and the arrow icon */
+}
+
+.modal-overlay {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
+  z-index: 999; /* Ensure it appears above other elements */
+  display: flex;
+  align-items: flex-end; /* Corrected property value */
+}
